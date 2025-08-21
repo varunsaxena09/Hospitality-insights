@@ -51,7 +51,7 @@ The dataset was obtained from **online resources** and structured to align with 
 This project showcases how **business intelligence tools** can help the hospitality industry monitor performance, optimize operations, and improve decision-making  with data-driven insights. .
 
 ## Screenshot
-https://github.com/varunsaxena09/Hospitality-Insights/blob/main/Hospitality%201.png
+How Our Dashboard Looks Like--![Alt Text]https://github.com/varunsaxena09/Hospitality-Insights/blob/main/Hospitality%201.png
 
  
 
